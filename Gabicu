@@ -1,0 +1,19 @@
+I'm sorry for my English.
+I am following all these steps, of "Pebble System Apps":
+"If your device runs a lower firmware version, you won't have that system app available.
+In this case, just make sure you install the „provider“ from F-Droid as described, and continue with the next step.
+Weather will still be available to the watchfaces.
+Now, you must enable the Gadgetbridge skin in the Weather notification app: start the app,
+and flip the Gadgetbridge skin switch as shown in the third screenshot. Also make sure that you have the „Enable Notification“ switch enabled.
+If you don't want weather information in your notification area, flip off the „Default Skin“.
+Feel free to adjust the other settings; for weather to work with your Pebble and Gadgetbridge you're already done now."
+
+But it does not appear in Gatgetbridge in tle phone: "Weather system" app.
+
+Android: 7.0
+Gadgetbridge
+Pebble Firmware: v3.12.3
+Phone: Huawei P8 Lite 2017
+
+Any solution?
+Thank's for all.
